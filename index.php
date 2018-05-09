@@ -1,5 +1,5 @@
 <?php
-
+//comment
 require __DIR__. '/functions.php';
 $data = require 'data.php';
 
